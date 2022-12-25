@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DF700&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Driss+Benadjal;Full-Stack+Junior)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5DF700&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Driss+Benadjal;Full-Stack+Junior)]()
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="_blank" href="https://codepen.io/saku93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saku93" height="30" width="40" /></a>
