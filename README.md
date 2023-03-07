@@ -11,7 +11,7 @@
 
 <div align="center">
 <img draggable="false" src="https://github-readme-streak-stats.herokuapp.com/?user=drissbenadjal&theme=dark&background=000000" width="49.5%"></img>
-<img draggable="false" src="https://github-readme-stats.vercel.app/api/top-langs?username=drissbenadjal&show_icons=true&theme=vision-friendly-dark&hide_border=true&locale=en&layout=compact" width="49.5%"></img></img>
+<img draggable="false" src="https://github-readme-stats.vercel.app/api/top-langs?username=drissbenadjal&show_icons=true&theme=vision-friendly-dark&hide_border=true&locale=en&layout=compact" width="42.2%"></img></img>
 </div>
 
 <p align="center"> 
